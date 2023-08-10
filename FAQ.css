@@ -35,21 +35,21 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 800px;
+  min-height: 887px;
 }
 
 .u-section-2 .u-text-1 {
-  width: 803px;
   font-weight: 700;
   font-family: "Tiro Tamil";
-  margin: 59px auto 0;
+  width: 803px;
+  margin: 18px auto 0;
 }
 
 .u-section-2 .u-text-2 {
-  font-size: 1.25rem;
-  width: 803px;
+  font-size: 1.5rem;
   font-family: "Tiro Tamil";
-  margin: 29px auto;
+  width: 803px;
+  margin: 35px auto 60px;
 }
 
 @media (max-width: 991px) {
@@ -82,24 +82,19 @@
     width: 340px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 139px;
+  min-height: 125px;
 }
 
 .u-section-3 .u-text-1 {
-  font-size: 1.5rem;
   width: 442px;
-  margin: 0 auto 4px;
+  font-style: italic;
+  line-height: 1.6;
+  margin: 0 auto 10px;
 }
 
 @media (max-width: 1199px) {
   .u-section-3 .u-text-1 {
     height: 39px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-3 .u-text-1 {
-    font-size: 1rem;
   }
 }
 
