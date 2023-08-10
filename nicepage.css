@@ -41861,7 +41861,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-text-1 {
   font-size: 1.5rem;
   font-family: "Tiro Tamil";
-  margin: 9px 783px 4px -42px;
+  margin: 6px 779px 5px -38px;
 }
 
 .u-footer .u-icon-2 {
@@ -41869,24 +41869,23 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
-    margin-right: 683px;
-    margin-left: -42px;
+    margin-right: 679px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-text-1 {
-    margin-right: 573px;
+    margin-right: 569px;
   }
 }
 @media (max-width: 767px) {
   .u-footer .u-text-1 {
     font-size: 1rem;
-    margin-right: 483px;
+    margin-right: 479px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-text-1 {
-    margin-right: 383px;
+    margin-right: 379px;
   }
 }
 
