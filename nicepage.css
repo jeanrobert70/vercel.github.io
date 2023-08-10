@@ -41790,17 +41790,17 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 4.5rem;
   font-family: "Alfa Slab One";
   font-weight: 700;
-  margin: 14px 266px 0 0;
+  margin: 14px 267px 0 -1px;
 }
 
 .u-header .u-menu-1 {
-  margin: 30px auto 0 0;
+  margin: 35px auto 0 0;
 }
 
 .u-header .u-nav-1 {
   font-weight: 700;
   font-family: "Tiro Tamil";
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 .u-header .u-nav-2 {
@@ -41811,11 +41811,11 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 400;
   font-family: "Carter One";
   font-size: 2.75rem;
-  margin: 30px 14px 24px 623px;
+  margin: 25px 14px 28px 623px;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
-    margin-right: 66px;
+    margin-right: 167px;
   }
 
   .u-header .u-nav-1 {
@@ -41830,6 +41830,7 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 991px) {
   .u-header .u-text-1 {
     margin-right: 0;
+    margin-left: 0;
   }
 
   .u-header .u-text-2 {
@@ -41861,7 +41862,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-text-1 {
   font-size: 1.5rem;
   font-family: "Tiro Tamil";
-  margin: 6px 779px 5px -38px;
+  margin: 11px 741px 2px 0;
 }
 
 .u-footer .u-icon-2 {
@@ -41869,23 +41870,23 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
-    margin-right: 679px;
+    margin-right: 541px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-text-1 {
-    margin-right: 569px;
+    margin-right: 321px;
   }
 }
 @media (max-width: 767px) {
   .u-footer .u-text-1 {
     font-size: 1rem;
-    margin-right: 479px;
+    margin-right: 141px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-text-1 {
-    margin-right: 379px;
+    margin-right: 0;
   }
 }
 

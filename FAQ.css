@@ -1,141 +1,110 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1755px;
+  min-height: 684px;
 }
 
 .u-section-1 .u-image-1 {
-  width: 1150px;
-  height: 1751px;
-  margin: -499px auto 0 -10px;
-}
-
-.u-section-1 .u-group-1 {
-  width: 1109px;
-  min-height: 1017px;
-  height: auto;
-  margin: -514px auto 0;
-}
-
-.u-section-1 .u-container-layout-1 {
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-.u-section-1 .u-text-1 {
-  --animation-custom_in-translate_x: -300px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
-  font-size: 3rem;
-  font-family: "Tiro Tamil";
-  margin: 6px 99px 0 6px;
-}
-
-.u-section-1 .u-text-2 {
-  line-height: 1.8;
-  --animation-custom_in-translate_x: -300px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
-  font-size: 1.5rem;
-  font-family: "Tiro Tamil";
-  margin: 31px 111px 0 6px;
+  margin-top: 0;
+  margin-bottom: 58px;
+  height: 626px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1435px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 940px;
-    height: 1431px;
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-group-1 {
-    width: 940px;
-    margin-top: -194px;
-    height: auto;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 0;
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-right: 0;
-    margin-left: 0;
+    min-height: 1755px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1100px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 720px;
-    height: 1096px;
-  }
-
-  .u-section-1 .u-group-1 {
-    width: 720px;
-    margin-top: 141px;
+    min-height: 1861px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 826px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 540px;
-    height: 822px;
-  }
-
-  .u-section-1 .u-group-1 {
-    width: 540px;
+    min-height: 1856px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 522px;
+    min-height: 2087px;
   }
+} .u-section-2 {
+  background-image: none;
+}
 
-  .u-section-1 .u-image-1 {
-    width: 340px;
-    height: 518px;
-  }
-
-  .u-section-1 .u-group-1 {
-    width: 340px;
-  }
-
-  .u-section-1 .u-text-1 {
-    font-size: 2.25rem;
-  }
-}.u-section-2 .u-sheet-1 {
-  min-height: 117px;
+.u-section-2 .u-sheet-1 {
+  min-height: 800px;
 }
 
 .u-section-2 .u-text-1 {
-  font-size: 1.5rem;
-  margin: 5px auto 4px;
+  width: 803px;
+  font-weight: 700;
+  font-family: "Tiro Tamil";
+  margin: 59px auto 0;
 }
 
-@media (max-width: 1199px) {
+.u-section-2 .u-text-2 {
+  font-size: 1.25rem;
+  width: 803px;
+  font-family: "Tiro Tamil";
+  margin: 29px auto;
+}
+
+@media (max-width: 991px) {
   .u-section-2 .u-text-1 {
-    height: 39px;
+    width: 720px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 720px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 540px;
+    font-size: 1.125rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 340px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 139px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.5rem;
+  width: 442px;
+  margin: 0 auto 4px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    height: 39px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
     font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    width: 340px;
   }
 }
