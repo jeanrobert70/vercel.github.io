@@ -41783,22 +41783,24 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 349px;
+  min-height: 358px;
 }
 
 .u-header .u-text-1 {
   font-size: 4.5rem;
+  font-family: "Alfa Slab One";
   font-weight: 700;
   margin: 14px 266px 0 0;
 }
 
 .u-header .u-menu-1 {
-  margin: -97px 0 0 auto;
+  margin: 30px auto 0 0;
 }
 
 .u-header .u-nav-1 {
-  font-size: 1rem;
-  letter-spacing: normal;
+  font-weight: 700;
+  font-family: "Tiro Tamil";
+  font-size: 1.25rem;
 }
 
 .u-header .u-nav-2 {
@@ -41806,33 +41808,23 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-2 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  margin: 61px 589px 0 68px;
-}
-
-.u-header .u-text-3 {
   font-weight: 400;
-  font-size: 3rem;
-  margin: 17px 1px 7px 698px;
+  font-family: "Carter One";
+  font-size: 2.75rem;
+  margin: 30px 14px 24px 623px;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
     margin-right: 66px;
   }
 
-  .u-header .u-menu-1 {
-    margin-top: -97px;
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 
   .u-header .u-text-2 {
-    margin-right: 457px;
-    margin-left: 0;
-  }
-
-  .u-header .u-text-3 {
     margin-right: 0;
-    margin-left: 499px;
+    margin-left: 437px;
   }
 }
 @media (max-width: 991px) {
@@ -41841,11 +41833,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-2 {
-    margin-right: 237px;
-  }
-
-  .u-header .u-text-3 {
-    margin-left: 279px;
+    margin-left: 217px;
   }
 }
 @media (max-width: 767px) {
@@ -41854,20 +41842,11 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-2 {
-    font-size: 1rem;
-    margin-right: 57px;
-  }
-
-  .u-header .u-text-3 {
-    margin-left: 99px;
+    margin-left: 37px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-text-2 {
-    margin-right: 0;
-  }
-
-  .u-header .u-text-3 {
     margin-left: 0;
   }
 }
@@ -41876,26 +41855,38 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 211px;
+}
+
+.u-footer .u-text-1 {
+  font-size: 1.5rem;
+  font-family: "Tiro Tamil";
+  margin: 9px 783px 4px -42px;
+}
+
+.u-footer .u-icon-2 {
+  font-size: 1.1667em;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 99px;
+  .u-footer .u-text-1 {
+    margin-right: 683px;
+    margin-left: -42px;
   }
 }
 @media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 76px;
+  .u-footer .u-text-1 {
+    margin-right: 573px;
   }
 }
 @media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 57px;
+  .u-footer .u-text-1 {
+    font-size: 1rem;
+    margin-right: 483px;
   }
 }
 @media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 36px;
+  .u-footer .u-text-1 {
+    margin-right: 383px;
   }
 }
 

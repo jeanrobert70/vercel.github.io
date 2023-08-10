@@ -1,0 +1,31 @@
+ .u-section-1 {
+  background-image: url("https://assets.nicepagecdn.com/dad8f50f/5572064/images/1a44622ceaecb07d14058b09b077b6fe830df2ad6a5a0d213d2394e6c8cc6eaea6ffcc43bf9d2e1cfff0419fafa1930a6756a8e5a7c9b6588759da_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 501px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-family: "Tiro Tamil";
+  margin: 59px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  width: 570px;
+  margin: 29px auto 59px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
